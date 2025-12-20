@@ -85,15 +85,6 @@ This indicates that although the model performs well on a single test split, its
 
 ---
 
-## 🚀 Future Improvements
-
-* Apply regularization techniques such as **Ridge** or **Lasso Regression**
-* Perform advanced feature engineering
-* Try non-linear models for comparison
-* Improve data scaling and feature transformations
-
----
-
 ## 🛠️ Technologies Used
 
 * Python
@@ -110,8 +101,16 @@ This project demonstrates the practical application of Multiple Linear Regressio
 
 ---
 
-## 👩‍💻 Author
+## 📎 License
 
-**Sohini Mandal**
+This project is open-source and available for educational and portfolio use.
 
-⭐ If you found this project useful, feel free to star the repository!
+---
+
+## 🙋‍♀️ About Me
+
+I'm Sohini Mandal — aspiring data analyst passionate about transforming raw data into meaningful stories.  
+Let’s connect on [LinkedIn]. https://www.linkedin.com/in/sohini-mandal05/
+
+
+---
