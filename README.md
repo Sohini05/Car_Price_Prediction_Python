@@ -2,9 +2,9 @@
 
 ## 📌 Project Overview
 
-This project focuses on predicting the price of used cars using **Multiple Linear Regression**. The objective is to analyze how different car attributes—such as age, mileage, engine capacity, power, and weight—affect the selling price and to evaluate the effectiveness and limitations of a linear regression model on real-world data.
+This project focuses on predicting the price of used cars using **Multiple Linear Regression**. The objective is to analyze how different car attributes—such as age, mileage, engine capacity, power and weight—affect the selling price and to evaluate the effectiveness and limitations of a linear regression model on real-world data.['Age','KM','Weight','HP', 'MetColor', 'CC', 'Doors']
 
-The project emphasizes **Exploratory Data Analysis (EDA)**, model building, performance evaluation, and **cross-validation** to gain a clear understanding of model behavior.
+The project emphasizes **Exploratory Data Analysis (EDA)**, model building, performance evaluation and **cross-validation** to gain a clear understanding of model behavior.
 
 ---
 
